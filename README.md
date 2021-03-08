@@ -1,8 +1,10 @@
 # Project 3 - *Parsogram*
 
+## Parsogram Part 2
+
 **Parsogram** is a photo sharing app similar to Instagram but using Parse as its backend.
 
-Time spent: **5.5** hours spent in total
+Time spent: **5.8** hours spent in total
 
 ## User Stories
 
